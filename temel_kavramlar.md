@@ -10,7 +10,7 @@ arac_fiyatlari = {
 gecerliAraclar = ["ekonomi", "suv", "premium"]
 promosyon_kodlari = {"YAZ2026", "YENI MUSTERI"}
 
-# 2.  Girdiler
+# 2.kullanıcı bilgileri
 ad_soyad = input("Ad Soyad: ")
 yas = int(input("Yaşınız: "))
 ehliyet_yili = int(input("Mevcut ehliyet süresi: "))
